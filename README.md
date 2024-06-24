@@ -20,7 +20,7 @@ This project implements a virtual mouse using hand gestures detected through a w
 
 1. Clone the repository:
     ```sh
-    git clone 
+    git clone https://github.com/SDWhiteHatExpert/AiDetectSpecial.git
     cd virtual-mouse-morse-code
     ```
 
